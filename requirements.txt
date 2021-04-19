@@ -1,0 +1,6 @@
+Flask
+gunicorn
+numpy
+sentencepiece
+transformers
+https://download.pytorch.org/whl/cpu/torch-1.8.1%2Bcpu-cp39-cp39-linux_x86_64.whl
