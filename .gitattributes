@@ -1,3 +1,4 @@
+pytorch_model.bin filter=lfs diff=lfs merge=lfs -text
 /Procfile filter=lfs diff=lfs merge=lfs -text
 *.md filter=lfs diff=lfs merge=lfs -text
 *.py filter=lfs diff=lfs merge=lfs -text
